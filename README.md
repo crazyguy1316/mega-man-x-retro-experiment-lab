@@ -1,4 +1,4 @@
-# Mega Man X Retro Experiment Lab
+﻿# Mega Man X Retro Experiment Lab
 
 ## Project Overview
 
@@ -10,6 +10,11 @@ Because the project is still far from its final game target, each completed stag
 Players who are interested and are using Windows on PC can download and try it.
 
 [Download link]
+
+Video Demo and SNS link
+Youtube: [https://www.youtube.com/@CrimsonCrazyGuy]
+Reddit: [https://www.reddit.com/user/CrimsonCrazyGuy/submitted/]
+X/Twitter: [https://x.com/CrimsonCrazyGuy]
 
 ### Gameplay Screenshots
 ![Screenshot 1](images/screenshot-01.png)
@@ -26,36 +31,36 @@ Players who are interested and are using Windows on PC can download and try it.
 
 Since the key configuration page is not finished yet, please use the keyboard mapping below for AutoHotKey or play directly with the keyboard:
 
-Dash -> Z
-Jump -> X
-Attack1 -> C
-Attack2 -> V
-Weapon change Left -> A
-Weapon change Right -> D
-Special action1 -> S
-Special action2 -> F
-Up / Down / Left / Right -> Arrow keys
+- Dash -> Z
+- Jump -> X
+- Attack1 -> C
+- Attack2 -> V
+- Weapon change Left -> A
+- Weapon change Right -> D
+- Special action1 -> S
+- Special action2 -> F
+- Up / Down / Left / Right -> Arrow keys
 
 ### System
 
-Some mechanics have been intentionally adjusted from the original games. For example, bosses can still take reduced damage during invincibility frames, and some attack like Zero Saber can produce normal damage to Boss in i-frame. Besides, attacks build up an “impact value” that can eventually cause stagger or guard break. And some enemy projectiles or objects which cannot be destroied in original game are breakable with certain attack.
+Some mechanics have been intentionally adjusted from the original games. For example, bosses can still take reduced damage during invincibility frames, and some attack like Zero Saber can produce normal damage to Boss in i-frame. Besides, attacks build up an 窶彿mpact value窶・that can eventually cause stagger or guard break. And some enemy projectiles or objects which cannot be destroied in original game are breakable with certain attack.
 
 ## Playable Characters
 
 ### Mega Man
 [image]
 Mega Man, the main character from the original series, faces enemies that are more than ten decades ahead in technology in Mega Man X. That means he has a much harder time against them than before, but his built-in Jet and Power Adapters also give him more options in battle than ever. It all comes down to how the player uses each form's tactics.
-Due to lower attack and defense compared to X, this cause a much higher difficulty—mainly suited for experienced players.
+Due to lower attack and defense compared to X, this cause a much higher difficulty窶芭ainly suited for experienced players.
 
 Abilities:
 
-Sliding: A faithful recreation of the original slide that also reduces his hurtbox.
+- Sliding: A faithful recreation of the original slide that also reduces his hurtbox.
 [image]
-Level 2 Mega Buster Charge Shot: Based on the charge shot from Mega Man 5, with higher power.
+- Level 2 Mega Buster Charge Shot: Based on the charge shot from Mega Man 5, with higher power.
 [image]
-Jet Mega Man Adaptor: Based on the Jet Adaptor from Mega Man 6. In addition to flight, it also increases running speed and greatly improves mobility.
+- Jet Mega Man Adaptor: Based on the Jet Adaptor from Mega Man 6. In addition to flight, it also increases running speed and greatly improves mobility.
 [image]
-Power Mega Man Adaptor: Based on the Power Adaptor from Mega Man 6. Compared to the original, it deals stronger damage, can destroy special objects and some boss projectiles, and has a higher impact value than the Mega Buster Charge Shot.
+- Power Mega Man Adaptor: Based on the Power Adaptor from Mega Man 6. Compared to the original, it deals stronger damage, can destroy special objects and some boss projectiles, and has a higher impact value than the Mega Buster Charge Shot.
 [image]
 
 Special weapons: (WIP)
@@ -68,7 +73,9 @@ He is intended to be the main playable character and the baseline for game diffi
 
 Abilities:
 
-Dash / Air Dash: A movement action similar to the original games. The Air Dash may later have situational restrictions depending on the final design.
+Dash / Air Dash: A movement action similar to the original games.
+
+The Air Dash may later have situational restrictions depending on the final design.
 [image]
 Wall Kick: A signature move exclusive to X-series characters. This should not need much explanation.
 [image]
@@ -78,14 +85,14 @@ Armor: Work in progress. This is a huge amount of work, so please be patient.
 
 Special weapons:
 
-Shotgun Ice (WIP)
-Electric Spark (WIP)
-Rolling Shield (WIP)
-Homing Torpedo (WIP)
-Boomerang Cutter (WIP)
-Chameleon Sting (WIP)
-Storm Tornado (WIP)
-Fire Wave (WIP)
+- Shotgun Ice (WIP)
+- Electric Spark (WIP)
+- Rolling Shield (WIP)
+- Homing Torpedo (WIP)
+- Boomerang Cutter (WIP)
+- Chameleon Sting (WIP)
+- Storm Tornado (WIP)
+- Fire Wave (WIP)
 
 Special Attack:
 
@@ -102,31 +109,39 @@ The Zero Saber takes inspiration from the Zero series, with adjusted feel and co
 
 Abilities:
 
-Double Jump
-Air Dash
-Wall Kick
-Zero Saber Combo
-Pulse Chain (WIP)
-Lethal Slasher (WIP)
+- Double Jump
+- Air Dash
+- Wall Kick
+- Zero Saber Combo
+- Pulse Chain (WIP)
+- Lethal Slasher (WIP)
 
 Normal Weapons:
 
-Zero Saber: His ground normal attacks use Slash 1, 2, and 3, similar to the three-hit sword combo from Mega Man X4. In the middle of the combo, he can cancel into Upper Slash or Drop Slash. These combo routes have weaker impact, but they shorten attack time and allow higher DPS. The combo options for Upper Slash and Drop Slash can also be swapped into the special moves Ryuenjin and Hyouretsuzan. Their effects are similar: weaker impact during execution, but faster attack timing and higher DPS.
+- Zero Saber: His ground normal attacks use Slash 1, 2, and 3, similar to the three-hit sword combo from Mega Man X4.
+
+In the middle of the combo, he can cancel into Upper Slash or Drop Slash.
+
+These combo routes have weaker impact, but they shorten attack time and allow higher DPS.
+
+The combo options for Upper Slash and Drop Slash can also be swapped into the special moves Ryuenjin and Hyouretsuzan.
+
+Their effects are similar: weaker impact during execution, but faster attack timing and higher DPS.
 [image]
-Pulse Chain: A mid-range weapon with weaker damage, but it can quickly replenish weapon energy. (WIP)
-Lethal Slasher: A close-range weapon that can be used while moving. (WIP)
+- Pulse Chain: A mid-range weapon with weaker damage, but it can quickly replenish weapon energy. (WIP)
+- Lethal Slasher: A close-range weapon that can be used while moving. (WIP)
 
 Special moves (Japanese name will show kanji):
 
-Hyouretsuzan(冰烈斬): [Z. Saber] An ice-element descending slash that hits once.
-Raikousen(雷光閃): [Z. Saber] A lightning-element invincible horizontal dash slash that also supports air dashing.
-Ennbuzan(圓舞斬): [Z. Saber] A fast 360-degree spinning slash with projectile-clearing effect.
-Reppumai(烈風舞): [L. Slasher] (WIP)
-Shuneishin(瞬影震): [P. Chain] (WIP)
-Roueisyu(朧影襲), Roueimai(朧影舞): [P. Chain] (WIP)
-Reppujin(烈風刃): [L. Slasher] A burst of four-times-speed rapid slashes. One input = four normal attacks.
-Ryuuenjin(龍炎刃): [Z. Saber] A fire-element rising slash with multiple hits.
-Earth Crush: [Z. Saber] (WIP)
+- Hyouretsuzan(蜀ｰ辜域脈): [Z. Saber] An ice-element descending slash that hits once.
+- Raikousen(髮ｷ蜈蛾麻): [Z. Saber] A lightning-element invincible horizontal dash slash that also supports air dashing.
+- Ennbuzan(蝨楢・譁ｬ): [Z. Saber] A fast 360-degree spinning slash with projectile-clearing effect.
+- Reppumai(辜磯｢ｨ闊・: [L. Slasher] (WIP)
+- Shuneishin(迸ｬ蠖ｱ髴・: [P. Chain] (WIP)
+- Roueisyu(譛ｧ蠖ｱ隘ｲ), Roueimai(譛ｧ蠖ｱ闊・: [P. Chain] (WIP)
+- Reppujin(辜磯｢ｨ蛻・: [L. Slasher] A burst of four-times-speed rapid slashes. One input = four normal attacks.
+- Ryuuenjin(鮴咲ｎ蛻・: [Z. Saber] A fire-element rising slash with multiple hits.
+- Earth Crush: [Z. Saber] (WIP)
 
 ### Proto Man
 [image]
@@ -138,28 +153,32 @@ However, not all of his features have been designed yet, and his Special Move is
 
 Abilities:
 
-Sliding
-Proto Man Strike
-Proto Buster
-Proto Shield
-Big Bang Strike (WIP)
-Movement Support (WIP)
+- Sliding
+- Proto Man Strike
+- Proto Buster
+- Proto Shield
+- Big Bang Strike (WIP)
+- Movement Support (WIP)
 
 Special weapons: (WIP)
 
 ### Bass (WIP)
 [image]
-Bass is based on Mega Man & Bass. He is designed around Dash Jump and Double Jump, and his Bass Buster is a rapid-fire weapon with lower damage than the Mega Buster, but faster firing speed and projectile speed. Because its damage is lower, it can ignore the usual reduced damage against bosses during invincibility frames.
+Bass is based on Mega Man & Bass.
+
+He is designed around Dash Jump and Double Jump, and his Bass Buster is a rapid-fire weapon with lower damage than the Mega Buster, but faster firing speed and projectile speed.
+
+Because its damage is lower, it can ignore the usual reduced damage against bosses during invincibility frames.
 
 When combined with Trevor, Bass can fly and unleash stronger attacks, but this part is still work in progress. Please be patient.
 
 Abilities:
 
-Dash
-Slide
-Double Jump
-Bass Buster Rapid Shot
-Trevor Boost (WIP)
+- Dash
+- Slide
+- Double Jump
+- Bass Buster Rapid Shot
+- Trevor Boost (WIP)
 
 Special weapons: (WIP)
 
@@ -228,3 +247,5 @@ Nes character cannot use snes character's special weapon, so there will be 8 bos
 
 ## Download
 [TODO]
+
+
