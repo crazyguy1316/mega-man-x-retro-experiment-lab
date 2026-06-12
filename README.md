@@ -12,9 +12,9 @@ Players who are interested and are using Windows on PC can download and try it.
 [Download link]
 
 Video Demo and SNS link
-Youtube: [https://www.youtube.com/@CrimsonCrazyGuy]
-Reddit: [https://www.reddit.com/user/CrimsonCrazyGuy/submitted/]
-X/Twitter: [https://x.com/CrimsonCrazyGuy]
+- Youtube: [https://www.youtube.com/@CrimsonCrazyGuy]
+- Reddit: [https://www.reddit.com/user/CrimsonCrazyGuy/submitted/]
+- X/Twitter: [https://x.com/CrimsonCrazyGuy]
 
 ### Gameplay Screenshots
 ![Screenshot 1](images/screenshot-01.png)
