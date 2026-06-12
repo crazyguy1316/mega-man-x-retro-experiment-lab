@@ -43,14 +43,14 @@ Since the key configuration page is not finished yet, please use the keyboard ma
 
 ### System
 
-Some mechanics have been intentionally adjusted from the original games. For example, bosses can still take reduced damage during invincibility frames, and some attack like Zero Saber can produce normal damage to Boss in i-frame. Besides, attacks build up an 窶彿mpact value窶・that can eventually cause stagger or guard break. And some enemy projectiles or objects which cannot be destroied in original game are breakable with certain attack.
+Some mechanics have been intentionally adjusted from the original games. For example, bosses can still take reduced damage during invincibility frames, and some attack like Zero Saber can produce normal damage to Boss in i-frame. Besides, attacks build up impact value that can eventually cause stagger or guard break. And some enemy projectiles or objects which cannot be destroied in original game are breakable with certain attack.
 
 ## Playable Characters
 
 ### Mega Man
 [image]
 Mega Man, the main character from the original series, faces enemies that are more than ten decades ahead in technology in Mega Man X. That means he has a much harder time against them than before, but his built-in Jet and Power Adapters also give him more options in battle than ever. It all comes down to how the player uses each form's tactics.
-Due to lower attack and defense compared to X, this cause a much higher difficulty窶芭ainly suited for experienced players.
+Due to lower attack and defense compared to X, this cause a much higher difficulty mainly suited for experienced players.
 
 Abilities:
 
@@ -133,14 +133,14 @@ Their effects are similar: weaker impact during execution, but faster attack tim
 
 Special moves (Japanese name will show kanji):
 
-- Hyouretsuzan(蜀ｰ辜域脈): [Z. Saber] An ice-element descending slash that hits once.
-- Raikousen(髮ｷ蜈蛾麻): [Z. Saber] A lightning-element invincible horizontal dash slash that also supports air dashing.
-- Ennbuzan(蝨楢・譁ｬ): [Z. Saber] A fast 360-degree spinning slash with projectile-clearing effect.
-- Reppumai(辜磯｢ｨ闊・: [L. Slasher] (WIP)
-- Shuneishin(迸ｬ蠖ｱ髴・: [P. Chain] (WIP)
-- Roueisyu(譛ｧ蠖ｱ隘ｲ), Roueimai(譛ｧ蠖ｱ闊・: [P. Chain] (WIP)
-- Reppujin(辜磯｢ｨ蛻・: [L. Slasher] A burst of four-times-speed rapid slashes. One input = four normal attacks.
-- Ryuuenjin(鮴咲ｎ蛻・: [Z. Saber] A fire-element rising slash with multiple hits.
+- Hyouretsuzan(冰烈斬): [Z. Saber] An ice-element descending slash that hits once.
+- Raikousen(雷光閃): [Z. Saber] A lightning-element invincible horizontal dash slash that also supports air dashing.
+- Ennbuzan(圓舞斬): [Z. Saber] A fast 360-degree spinning slash with projectile-clearing effect.
+- Reppumai(烈風舞): [L. Slasher] (WIP)
+- Shuneishin(瞬影震): [P. Chain] (WIP)
+- Roueisyu(朧影襲), Roueimai(朧影舞): [P. Chain] (WIP)
+- Reppujin(烈風刃): [L. Slasher] A burst of four-times-speed rapid slashes. One input = four normal attacks.
+- Ryuuenjin(龍炎刃): [Z. Saber] A fire-element rising slash with multiple hits.
 - Earth Crush: [Z. Saber] (WIP)
 
 ### Proto Man
