@@ -58,18 +58,20 @@ Due to lower attack and defense compared to X, this cause a much higher difficul
 Abilities:
 
 - Sliding: A faithful recreation of the original slide that also reduces his hurtbox.
-![Megaman sliding](images/megaman/mm_slide.png)
 - Level 2 Mega Buster Charge Shot: Based on the charge shot from Mega Man 5, with higher power.
-![Megaman Charge Lv2](images/megaman/mm_charge2.png)
 - Jet Mega Man Adaptor: Based on the Jet Adaptor from Mega Man 6. In addition to flight, it also increases running speed and greatly improves mobility.
-![Jet Megaman](images/megaman/jet_mm.png)
 - Power Mega Man Adaptor: Based on the Power Adaptor from Mega Man 6. Compared to the original, it deals stronger damage, can destroy special objects and some boss projectiles, and has a higher impact value than the Mega Buster Charge Shot.
+
+![Megaman sliding](images/megaman/mm_slide.png)
+![Megaman Charge Lv2](images/megaman/mm_charge2.png)
+![Jet Megaman](images/megaman/jet_mm.png)
 ![Power Megaman](images/megaman/power_mm.png)
 
 Special weapons: (WIP)
 
 ### Mega Man X
 ![Mega Man X](images/megamanx/mmx.png)
+
 Mega Man X, the main character of the Mega Man X series, is currently built with Mega Man X8 as the temporary development base, so his abilities are a little stronger for now. Once the armor set is finished, some of his functions will be adjusted to be closer to Mega Man X1.
 
 He is intended to be the main playable character and the baseline for game difficulty, so in theory playing as X should provide the lowest difficulty experience.
@@ -97,12 +99,15 @@ Special weapons:
 Special Attack:
 
 Hadouken: A famous Street Fighter finishing move that everyone knows well. In this game it is also an extremely powerful special attack. It will only become a condition-based unlock after the full game is completed, but during the test phase you can use it freely.
+
 ![Hadouken](images/megamanx/mmx_hadouken.png)
+
 Shoryuken: WIP. Another well-known Street Fighter finishing move, still under development.
 
 
 ### Zero
 ![Zero](images/zero/zero.png)
+
 Zero is different from X. His design is primarily based on Mega Man X4, and in addition to the Zero Saber he is planned to have two normal weapons as well, both of which are still in development.
 
 The Zero Saber takes inspiration from the Zero series, with adjusted feel and combo behavior. Against bosses during invincibility frames, most moves can ignore reduced damage and still deal very high damage. Special moves now consume energy, but energy can be restored by landing normal attacks, and it will also recover slowly when he is not attacking. Zero will probably receive the most development effort of all characters, and we hope he can offer an experience that feels different from the original games.
@@ -145,6 +150,7 @@ Special moves (Japanese name will show kanji):
 
 ### Proto Man
 ![Proto Man](images/protoman/protoman.png)
+
 Proto Man follows the Mega Man series concept where his defense is only half of Mega Man's. To compensate for this reduced defense, his Buster is designed so that Charge Shots can be fired directly by spending energy. As long as he has enough energy, he can keep rapid firing. When energy is low, he can use his normal Buster, which only fires two shots, and restore energy quickly by hitting enemies. Energy also slowly recovers when he is not attacking.
 
 In addition, Proto Shield can be activated while standing or jumping. Making good use of the shield allows him to block most enemy projectiles, greatly improving both survival and strategic depth.
@@ -164,6 +170,7 @@ Special weapons: (WIP)
 
 ### Bass (WIP)
 ![Bass](images/bass/bass.png)
+
 Bass is based on Mega Man & Bass.
 
 He is designed around Dash Jump and Double Jump, and his Bass Buster is a rapid-fire weapon with lower damage than the Mega Buster, but faster firing speed and projectile speed.
@@ -188,7 +195,15 @@ Knight Arthur is the main character of the Ghosts 'n Goblins series, famous for 
 
 However, his original performance is far too weak. Aside from the armor that absolutely must remain as fragile as ever, the rest of his details are still being adjusted. Please look forward to it.
 
-## Bosses
+### Axl (WIP)
+
+### Future feature of other Capcom Characters
+
+#### Resident Evil series (WIP)
+
+#### Street Fighters (WIP)
+
+## Bosses & stages (WIP)
 
 ### Chill Penguin
 This is the boss with the highest level of completion so far, but some small details are still being adjusted. In the playtest version, you should be able to experience things that feel noticeably different from the original game.
@@ -213,6 +228,21 @@ This is the boss with the highest level of completion so far, but some small det
 [TODO]
 
 ### Flame Mammoth (WIP)
+[TODO]
+
+### Bospider (WIP)
+[TODO]
+
+### Rangda Bangda (WIP)
+[TODO]
+
+### D-Rex (WIP)
+[TODO]
+
+### Velguarder (WIP)
+[TODO]
+
+### Sigma (WIP)
 [TODO]
 
 ## Nes Bosses
