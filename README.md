@@ -25,7 +25,7 @@ Video Demo and SNS link
 
 ![Screenshot 2](images/screenshot/screenshot-02.png)
 
-![Screenshot 3](images/screenshot/screenshot-03.png)
+![Screenshot 3](images/screenshot/screenshot-03.jpg)
 
 ![Screenshot 4](images/screenshot/screenshot-04.png)
 
