@@ -248,6 +248,7 @@ When combined with Treble, Bass can fly and unleash stronger attacks, but this p
 
 ### Knight Arthur (WIP)
 [image]
+
 Knight Arthur is the main character of the Ghosts 'n Goblins series, famous for its brutally punishing difficulty and for challenging players who want to push their limits.
 
 However, his original performance is far too weak. Aside from the armor that absolutely must remain as fragile as ever, the rest of his details are still being adjusted. Please look forward to it.
@@ -264,6 +265,7 @@ However, his original performance is far too weak. Aside from the armor that abs
 
 ### Chill Penguin
 ![ChillPenguin](images/boss/chill_penguin/chill_penguin.png)
+
 This is the boss with the highest level of completion so far, but some small details are still being adjusted. In the playtest version, you should be able to experience things that feel noticeably different from the original game.
 [TODO]
 
