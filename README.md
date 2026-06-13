@@ -3,13 +3,17 @@
 ## Project Overview
 
 ### Short Description
-This is a Mega Man X fan game. The current goal is to build it around the SNES version of Mega Man X, while adding Mega Man and other Capcom characters as selectable playable characters for a crossover-style run through Mega Man X stages.
+> **Disclaimer:** Mega Man, Mega Man X, and all related character sprites, artwork, music, sound effects, and associated intellectual properties used from the original games are owned by Capcom Co., Ltd. This is a non-commercial fan game project created for entertainment, learning, and experimentation purposes. No copyright infringement is intended.
 
-Because the project is still far from its final game target, each completed stage such as a new playable character, a new level, or a new boss will be released as a separate update. This allows players to test parts of the game early and gives us room to adjust balance when needed.
+This project is a Mega Man X fan game inspired by the SNES version of Mega Man X. The current goal is to recreate the classic gameplay experience while expanding it with additional playable characters from across Capcom franchises, including Mega Man himself, allowing players to experience Mega Man X stages from new perspectives.
 
-Players who are interested and are using Windows on PC can download and try it.
+As the project is still far from its final vision, content will be released incrementally. Major additions such as new playable characters, stages, and bosses will be delivered through individual updates rather than waiting for a complete release. This approach allows players to experience new content earlier, provide feedback, and helps the project evolve through ongoing balancing and refinement.
+
+If you're interested in the project and use a Windows PC, feel free to download and try the latest available build.
+
 
 [Download link]
+[https://drive.google.com/file/d/14BiIVOxu5bjtNC5FYy04lj3spg9SB2eF/view?usp=sharing]
 
 Video Demo and SNS link
 - Youtube: [https://www.youtube.com/@CrimsonCrazyGuy]
@@ -17,17 +21,15 @@ Video Demo and SNS link
 - X/Twitter: [https://x.com/CrimsonCrazyGuy]
 
 ### Gameplay Screenshots
-![Screenshot 1](images/screenshot-01.png)
+![Screenshot 1](images/screenshot/screenshot-01.png)
 
-![Screenshot 2](images/screenshot-02.png)
+![Screenshot 2](images/screenshot/screenshot-02.png)
 
-![Screenshot 3](images/screenshot-03.png)
+![Screenshot 3](images/screenshot/screenshot-03.png)
 
-![Screenshot 4](images/screenshot-04.png)
+![Screenshot 4](images/screenshot/screenshot-04.png)
 
-![Screenshot 5](images/screenshot-05.png)
-
-![Screenshot 6](images/screenshot-06.png)
+![Screenshot 5](images/screenshot/screenshot-05.png)
 
 Since the key configuration page is not finished yet, please use the keyboard mapping below for AutoHotKey or play directly with the keyboard:
 
@@ -48,20 +50,20 @@ Some mechanics have been intentionally adjusted from the original games. For exa
 ## Playable Characters
 
 ### Mega Man
-[image]
+![images\megaman\mm.png]
 Mega Man, the main character from the original series, faces enemies that are more than ten decades ahead in technology in Mega Man X. That means he has a much harder time against them than before, but his built-in Jet and Power Adapters also give him more options in battle than ever. It all comes down to how the player uses each form's tactics.
 Due to lower attack and defense compared to X, this cause a much higher difficulty mainly suited for experienced players.
 
 Abilities:
 
 - Sliding: A faithful recreation of the original slide that also reduces his hurtbox.
-[image]
+![images\megaman\mm_slide.png]
 - Level 2 Mega Buster Charge Shot: Based on the charge shot from Mega Man 5, with higher power.
-[image]
+![images\megaman\mm_charge2.png]
 - Jet Mega Man Adaptor: Based on the Jet Adaptor from Mega Man 6. In addition to flight, it also increases running speed and greatly improves mobility.
-[image]
+![images\megaman\jet_mm.png]
 - Power Mega Man Adaptor: Based on the Power Adaptor from Mega Man 6. Compared to the original, it deals stronger damage, can destroy special objects and some boss projectiles, and has a higher impact value than the Mega Buster Charge Shot.
-[image]
+![images\megaman\power_mm.png]
 
 Special weapons: (WIP)
 
@@ -216,7 +218,7 @@ This is the boss with the highest level of completion so far, but some small det
 [TODO]
 
 ## Nes Bosses
-Nes character cannot use snes character's special weapon, so there will be 8 bosses in Original Mega Man series.
+Nes character cannot use SNES character's special weapon, so there will be 8 bosses in Original Mega Man series.
 
 ### Blizzard Man (WIP)
 
