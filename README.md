@@ -94,6 +94,9 @@ He is intended to be the main playable character and the baseline for game diffi
 - Level 3 X-Buster Charge Shot: Based on the third charge level from Mega Man X8. Compared to Level 2, it has higher impact value and damage. In the future this may be limited, and once the armor is completed it will at least be replaced by the Spiral Crush Shot.
 - Armor: Work in progress. This is a huge amount of work, so please be patient.
 
+![LV2 charge](images/megamanx/x_b_c_lv2.png)
+![LV3 charge](images/megamanx/x_b_c_lv3.png)
+
 #### Special weapons:
 
 - Shotgun Ice (WIP)
@@ -128,7 +131,7 @@ He is intended to be the main playable character and the baseline for game diffi
 
 Zero is different from X. His design is primarily based on Mega Man X4, and in addition to the Zero Saber he is planned to have two normal weapons as well, both of which are still in development.
 
-The Zero Saber takes inspiration from the Zero series, with adjusted feel and combo behavior. Against bosses during invincibility frames, most moves can ignore reduced damage and still deal very high damage. Special moves now consume energy, but energy can be restored by landing normal attacks, and it will also recover slowly when he is not attacking. Zero will probably receive the most development effort of all characters, and we hope he can offer an experience that feels different from the original games.
+The Zero Saber takes inspiration from the Zero series, with adjusted feel and combo behavior. Against bosses during invincibility frames, most moves can ignore reduced damage and still deal very high damage. Special moves now consume energy, but energy can be restored by landing normal attacks, and it will also recover slowly when he is not attacking. Zero will probably receive the most development effort of all characters, and I hope he can offer an experience that feels different from the original games.
 
 #### Abilities:
 
@@ -138,6 +141,12 @@ The Zero Saber takes inspiration from the Zero series, with adjusted feel and co
 - Zero Saber Combo
 - Pulse Chain (WIP)
 - Lethal Slasher (WIP)
+
+![ZeroSaberSlash1] (images/zero/zero_s_s1.png)
+![ZeroSaberSlash2] (images/zero/zero_s_s2.png)
+![ZeroSaberSlash3] (images/zero/zero_s_s3.png)
+![ZeroSaberSlashUpper] (images/zero/zero_s_su.png)
+![ZeroSaberSlashDrop] (images/zero/zero_s_sd.png)
 
 #### Normal Weapons:
 
@@ -151,7 +160,7 @@ Their effects are similar: weaker impact during execution, but faster attack tim
 
 #### Special moves (Japanese name will show kanji):
 
-- Hyouretsuzan(冰烈斬): [Z. Saber] An ice-element descending slash that hits once.
+- Hyouretsuzan(冰烈斬): [Z. Saber] An ice-element descending slash that hits once but dealing with high damage.
 - Raikousen(雷光閃): [Z. Saber] A lightning-element invincible horizontal dash slash that also supports air dashing. (WIP)
 - Ennbuzan(圓舞斬): [Z. Saber] A fast 360-degree spinning slash with projectile-clearing effect. (WIP)
 - Reppumai(烈風舞): [L. Slasher] (WIP)
@@ -168,7 +177,7 @@ Their effects are similar: weaker impact during execution, but faster attack tim
 - Jump -> X
 - Double Jump (mid-air) -> X
 - Attack1 (ZeroSaber) -> C
-- Slash1,2,3 combo (on ground) -> C,C,C
+- ZeroSaberSlash1,2,3 combo (on ground) -> C,C,C
 - Upper Slash (on ground) -> Up + C
 - Drop Slash (mid-air) -> Down + C
 - Attack2 (Special move button)-> V
@@ -179,7 +188,7 @@ Their effects are similar: weaker impact during execution, but faster attack tim
 ### Proto Man
 ![Proto Man](images/protoman/protoman.png)
 
-Proto Man follows the Mega Man series concept where his defense is only half of Mega Man's. To compensate for this reduced defense, his Buster is designed so that Charge Shots can be fired directly by spending energy. As long as he has enough energy, he can keep rapid firing. When energy is low, he can use his normal Buster, which only fires two shots, and restore energy quickly by hitting enemies. Energy also slowly recovers when he is not attacking.
+Proto Man follows the Mega Man series concept where his defense is only half of Mega Man's. To compensate for this reduced defense, his Buster is designed so that Charge Shots can be fired directly by spending energy. As long as he has enough energy, he can keep rapid firing. When energy is low, he can use his normal Buster, which only fires two shots once, and restore energy quickly by hitting enemies. Energy also slowly recovers when he is not attacking.
 
 In addition, Proto Shield can be activated while standing or jumping. Making good use of the shield allows him to block most enemy projectiles, greatly improving both survival and strategic depth.
 
@@ -193,6 +202,9 @@ However, not all of his features have been designed yet, and his Special Move is
 - Proto Shield
 - Big Bang Strike (WIP)
 - Movement Support (WIP)
+
+![ProtoShield] (images/protoman/protoman_shield.png)
+![ProtoStrike] (images/protoman/protoman_strike.png)
 
 #### Special weapons: (WIP)
 
@@ -222,6 +234,8 @@ When combined with Treble, Bass can fly and unleash stronger attacks, but this p
 - Bass Buster Rapid Shot
 - Treble Boost (WIP)
 
+![BassDashJump](images/bass/bass_dash_jump.png)
+
 #### Special weapons: (WIP)
 
 #### Controls
@@ -249,6 +263,7 @@ However, his original performance is far too weak. Aside from the armor that abs
 ## Bosses & stages (WIP)
 
 ### Chill Penguin
+![ChillPenguin](images/boss/chill_penguin/chill_penguin.png)
 This is the boss with the highest level of completion so far, but some small details are still being adjusted. In the playtest version, you should be able to experience things that feel noticeably different from the original game.
 [TODO]
 
@@ -289,7 +304,7 @@ This is the boss with the highest level of completion so far, but some small det
 [TODO]
 
 ## Nes Bosses
-Nes character cannot use SNES character's special weapon, so there will be 8 bosses in Original Mega Man series.
+Nes character cannot use SNES character's special weapon, so there will be 8 bosses in Original Mega Man series for nes Characters to get their weapon.
 
 ### Blizzard Man (WIP)
 
