@@ -142,11 +142,11 @@ The Zero Saber takes inspiration from the Zero series, with adjusted feel and co
 - Pulse Chain (WIP)
 - Lethal Slasher (WIP)
 
-![ZeroSaberSlash1] (images/zero/zero_s_s1.png)
-![ZeroSaberSlash2] (images/zero/zero_s_s2.png)
-![ZeroSaberSlash3] (images/zero/zero_s_s3.png)
-![ZeroSaberSlashUpper] (images/zero/zero_s_su.png)
-![ZeroSaberSlashDrop] (images/zero/zero_s_sd.png)
+![ZeroSaberSlash1](images/zero/zero_s_s1.png)
+![ZeroSaberSlash2](images/zero/zero_s_s2.png)
+![ZeroSaberSlash3](images/zero/zero_s_s3.png)
+![ZeroSaberSlashUpper](images/zero/zero_s_su.png)
+![ZeroSaberSlashDrop](images/zero/zero_s_sd.png)
 
 #### Normal Weapons:
 
@@ -203,8 +203,8 @@ However, not all of his features have been designed yet, and his Special Move is
 - Big Bang Strike (WIP)
 - Movement Support (WIP)
 
-![ProtoShield] (images/protoman/protoman_shield.png)
-![ProtoStrike] (images/protoman/protoman_strike.png)
+![ProtoShield](images/protoman/protoman_shield.png)
+![ProtoStrike](images/protoman/protoman_strike.png)
 
 #### Special weapons: (WIP)
 
