@@ -212,7 +212,7 @@ He is designed around Dash Jump and Double Jump, and his Bass Buster is a rapid-
 
 Because its damage is lower, it can ignore the usual reduced damage against bosses during invincibility frames.
 
-When combined with Trevor, Bass can fly and unleash stronger attacks, but this part is still work in progress. Please be patient.
+When combined with Treble, Bass can fly and unleash stronger attacks, but this part is still work in progress. Please be patient.
 
 #### Abilities:
 
@@ -220,7 +220,7 @@ When combined with Trevor, Bass can fly and unleash stronger attacks, but this p
 - Slide
 - Double Jump
 - Bass Buster Rapid Shot
-- Trevor Boost (WIP)
+- Treble Boost (WIP)
 
 #### Special weapons: (WIP)
 
