@@ -13,7 +13,7 @@ If you're interested in the project and use a Windows PC, feel free to download 
 
 
 [Download link]
-[https://drive.google.com/file/d/14BiIVOxu5bjtNC5FYy04lj3spg9SB2eF/view?usp=sharing]
+[https://drive.google.com/file/d/1JnDRNqlzSvG4I0uj9LAFu0qrZu1nxe3L/view?usp=sharing]
 
 Video Demo and SNS link
 - Youtube: [https://www.youtube.com/@CrimsonCrazyGuy]
@@ -33,6 +33,7 @@ Video Demo and SNS link
 
 Since the key configuration page is not finished yet, please use the keyboard mapping below for AutoHotKey or play directly with the keyboard:
 
+### Control buttons:
 - Dash -> Z
 - Jump -> X
 - Attack1 -> C
@@ -55,7 +56,7 @@ Some mechanics have been intentionally adjusted from the original games. For exa
 Mega Man, the main character from the original series, faces enemies that are more than ten decades ahead in technology in Mega Man X. That means he has a much harder time against them than before, but his built-in Jet and Power Adapters also give him more options in battle than ever. It all comes down to how the player uses each form's tactics.
 Due to lower attack and defense compared to X, this cause a much higher difficulty mainly suited for experienced players.
 
-Abilities:
+#### Abilities:
 
 - Sliding: A faithful recreation of the original slide that also reduces his hurtbox.
 - Level 2 Mega Buster Charge Shot: Based on the charge shot from Mega Man 5, with higher power.
@@ -67,7 +68,17 @@ Abilities:
 ![Jet Megaman](images/megaman/jet_mm.png)
 ![Power Megaman](images/megaman/power_mm.png)
 
-Special weapons: (WIP)
+#### Special weapons: (WIP)
+
+#### Controls
+- Jump -> X
+- Sliding (on ground) -> Down + X
+- Attack1 (Mega Buster and charge) -> C
+- Attack2 (Rapid Mega Buster) -> V
+- Special action1 (Jet Adaptor and cancel) -> S
+- Special action2 (Power Adaptor and cancel) -> F
+- Return to Normal Mega Man -> S+F
+- Up / Down / Left / Right -> Arrow keys
 
 ### Mega Man X
 ![Mega Man X](images/megamanx/mmx.png)
@@ -76,16 +87,14 @@ Mega Man X, the main character of the Mega Man X series, is currently built with
 
 He is intended to be the main playable character and the baseline for game difficulty, so in theory playing as X should provide the lowest difficulty experience.
 
-Abilities:
+#### Abilities:
 
-Dash / Air Dash: A movement action similar to the original games.
-
-- The Air Dash may later have situational restrictions depending on the final design.
+- Dash / Air Dash: A movement action similar to the original games. The Air Dash may later have situational restrictions depending on the final design.
 - Wall Kick: A signature move exclusive to X-series characters. This should not need much explanation.
 - Level 3 X-Buster Charge Shot: Based on the third charge level from Mega Man X8. Compared to Level 2, it has higher impact value and damage. In the future this may be limited, and once the armor is completed it will at least be replaced by the Spiral Crush Shot.
 - Armor: Work in progress. This is a huge amount of work, so please be patient.
 
-Special weapons:
+#### Special weapons:
 
 - Shotgun Ice (WIP)
 - Electric Spark (WIP)
@@ -96,13 +105,22 @@ Special weapons:
 - Storm Tornado (WIP)
 - Fire Wave (WIP)
 
-Special Attack:
+#### Special Attack:
 
-Hadouken: A famous Street Fighter finishing move that everyone knows well. In this game it is also an extremely powerful special attack. It will only become a condition-based unlock after the full game is completed, but during the test phase you can use it freely.
+##### Hadouken: A famous Street Fighter finishing move that everyone knows well. In this game it is also an extremely powerful special attack. It will only become a condition-based unlock after the full game is completed, but during the test phase you can use it freely.
 
 ![Hadouken](images/megamanx/mmx_hadouken.png)
 
-Shoryuken: WIP. Another well-known Street Fighter finishing move, still under development.
+##### Shoryuken: WIP. Another well-known Street Fighter finishing move, still under development.
+
+#### Controls
+- Dash -> Z
+- Air dash (mid-air) -> Z
+- Jump -> X
+- Attack1 (X Buster and charge)  -> C
+- Attack2 (Rapid X Buster) -> V
+- Hadouken -> Down, Down Forward, Forward
+- Up / Down / Left / Right -> Arrow keys
 
 
 ### Zero
@@ -112,7 +130,7 @@ Zero is different from X. His design is primarily based on Mega Man X4, and in a
 
 The Zero Saber takes inspiration from the Zero series, with adjusted feel and combo behavior. Against bosses during invincibility frames, most moves can ignore reduced damage and still deal very high damage. Special moves now consume energy, but energy can be restored by landing normal attacks, and it will also recover slowly when he is not attacking. Zero will probably receive the most development effort of all characters, and we hope he can offer an experience that feels different from the original games.
 
-Abilities:
+#### Abilities:
 
 - Double Jump
 - Air Dash
@@ -121,32 +139,42 @@ Abilities:
 - Pulse Chain (WIP)
 - Lethal Slasher (WIP)
 
-Normal Weapons:
+#### Normal Weapons:
 
-- Zero Saber: His ground normal attacks use Slash 1, 2, and 3, similar to the three-hit sword combo from Mega Man X4.
-
+- Zero Saber: His ground normal attacks use Slash 1, 2, and 3, similar to the three-hit sword combo from Mega Man X4. 
 In the middle of the combo, he can cancel into Upper Slash or Drop Slash.
-
 These combo routes have weaker impact, but they shorten attack time and allow higher DPS.
-
 The combo options for Upper Slash and Drop Slash can also be swapped into the special moves Ryuenjin and Hyouretsuzan.
-
 Their effects are similar: weaker impact during execution, but faster attack timing and higher DPS.
-[image]
 - Pulse Chain: A mid-range weapon with weaker damage, but it can quickly replenish weapon energy. (WIP)
 - Lethal Slasher: A close-range weapon that can be used while moving. (WIP)
 
-Special moves (Japanese name will show kanji):
+#### Special moves (Japanese name will show kanji):
 
 - Hyouretsuzan(冰烈斬): [Z. Saber] An ice-element descending slash that hits once.
-- Raikousen(雷光閃): [Z. Saber] A lightning-element invincible horizontal dash slash that also supports air dashing.
-- Ennbuzan(圓舞斬): [Z. Saber] A fast 360-degree spinning slash with projectile-clearing effect.
+- Raikousen(雷光閃): [Z. Saber] A lightning-element invincible horizontal dash slash that also supports air dashing. (WIP)
+- Ennbuzan(圓舞斬): [Z. Saber] A fast 360-degree spinning slash with projectile-clearing effect. (WIP)
 - Reppumai(烈風舞): [L. Slasher] (WIP)
 - Shuneishin(瞬影震): [P. Chain] (WIP)
 - Roueisyu(朧影襲), Roueimai(朧影舞): [P. Chain] (WIP)
-- Reppujin(烈風刃): [L. Slasher] A burst of four-times-speed rapid slashes. One input = four normal attacks.
+- Reppujin(烈風刃): [L. Slasher] A burst of four-times-speed rapid slashes. One input = four normal attacks. (WIP)
 - Ryuuenjin(龍炎刃): [Z. Saber] A fire-element rising slash with multiple hits.
 - Earth Crush: [Z. Saber] (WIP)
+
+
+#### Controls:
+- Dash -> Z
+- Air dash (mid-air) -> Z
+- Jump -> X
+- Double Jump (mid-air) -> X
+- Attack1 (ZeroSaber) -> C
+- Slash1,2,3 combo (on ground) -> C,C,C
+- Upper Slash (on ground) -> Up + C
+- Drop Slash (mid-air) -> Down + C
+- Attack2 (Special move button)-> V
+- Ryuuenjin (on ground) -> Up + V
+- Hyouretsuzan (mid-air) -> Down + V
+- Up / Down / Left / Right -> Arrow keys
 
 ### Proto Man
 ![Proto Man](images/protoman/protoman.png)
@@ -157,7 +185,7 @@ In addition, Proto Shield can be activated while standing or jumping. Making goo
 
 However, not all of his features have been designed yet, and his Special Move is still WIP, so please be patient.
 
-Abilities:
+#### Abilities:
 
 - Sliding
 - Proto Man Strike
@@ -166,7 +194,14 @@ Abilities:
 - Big Bang Strike (WIP)
 - Movement Support (WIP)
 
-Special weapons: (WIP)
+#### Special weapons: (WIP)
+
+#### Controls
+- Jump -> X
+- Sliding (on ground) -> Down + X
+- Attack1 (Proto Strike) -> C
+- Attack2 (Rapid Proto Buster) -> V
+- Up / Down / Left / Right -> Arrow keys
 
 ### Bass (WIP)
 ![Bass](images/bass/bass.png)
@@ -179,7 +214,7 @@ Because its damage is lower, it can ignore the usual reduced damage against boss
 
 When combined with Trevor, Bass can fly and unleash stronger attacks, but this part is still work in progress. Please be patient.
 
-Abilities:
+#### Abilities:
 
 - Dash
 - Slide
@@ -187,7 +222,15 @@ Abilities:
 - Bass Buster Rapid Shot
 - Trevor Boost (WIP)
 
-Special weapons: (WIP)
+#### Special weapons: (WIP)
+
+#### Controls
+- Dash -> Z
+- Jump -> X
+- Double Jump (mid-air, can use in dash jump) -> X
+- Attack1 (Bass Buster rapid fire)  -> C
+- Up / Down / Left / Right -> Arrow keys
+
 
 ### Knight Arthur (WIP)
 [image]
