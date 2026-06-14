@@ -143,10 +143,11 @@ The Zero Saber takes inspiration from the Zero series, with adjusted feel and co
 - Lethal Slasher (WIP)
 
 ![ZeroSaberSlashCombo](images/zero/zero_zs3combo.gif)
-![ZeroSaberSlashCombo2]()
-![ZeroSaberSlash3](images/zero/zero_s_s3.png)
-![ZeroSaberSlashUpper](images/zero/zero_s_su.png)
-![ZeroSaberSlashDrop](images/zero/zero_s_sd.png)
+![ZeroSaberSlashCombo2](images/zero/zero_zs3combo2.gif)
+![zero_zs_u_d](images/zero/zero_zs_u_d.gif)
+![zero_zs3comboSP](images/zero/zero_zs3comboSP.gif)
+![zero_zs_ryuenjin](images/zero/zero_zs_ryuenjin.gif)
+![zero_zs_hyoretsuzan](images/zero/zero_zs_hyoretsuzan.gif)
 
 #### Normal Weapons:
 
