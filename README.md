@@ -142,8 +142,8 @@ The Zero Saber takes inspiration from the Zero series, with adjusted feel and co
 - Pulse Chain (WIP)
 - Lethal Slasher (WIP)
 
-![ZeroSaberSlash1](images/zero/zero_s_s1.png)
-![ZeroSaberSlash2](images/zero/zero_s_s2.png)
+![ZeroSaberSlashCombo](images/zero/zero_zs3combo.gif)
+![ZeroSaberSlashCombo2]()
 ![ZeroSaberSlash3](images/zero/zero_s_s3.png)
 ![ZeroSaberSlashUpper](images/zero/zero_s_su.png)
 ![ZeroSaberSlashDrop](images/zero/zero_s_sd.png)
