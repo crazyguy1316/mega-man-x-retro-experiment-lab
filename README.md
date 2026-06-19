@@ -53,6 +53,11 @@ Some mechanics have been intentionally adjusted from the original games. For exa
 ### Mega Man
 ![Megaman](images/megaman/mm.png)
 
+![Megaman sliding](images/megaman/mm_slide.png)
+![Megaman Charge Lv2](images/megaman/mm_charge2.png)
+![Jet Megaman](images/megaman/jet_mm.png)
+![Power Megaman](images/megaman/power_mm.png)
+
 Mega Man, the main character from the original series, faces enemies that are more than ten decades ahead in technology in Mega Man X. That means he has a much harder time against them than before, but his built-in Jet and Power Adapters also give him more options in battle than ever. It all comes down to how the player uses each form's tactics.
 Due to lower attack and defense compared to X, this cause a much higher difficulty mainly suited for experienced players.
 
@@ -63,10 +68,7 @@ Due to lower attack and defense compared to X, this cause a much higher difficul
 - Jet Mega Man Adaptor: Based on the Jet Adaptor from Mega Man 6. In addition to flight, it also increases running speed and greatly improves mobility.
 - Power Mega Man Adaptor: Based on the Power Adaptor from Mega Man 6. Compared to the original, it deals stronger damage, can destroy special objects and some boss projectiles, and has a higher impact value than the Mega Buster Charge Shot.
 
-![Megaman sliding](images/megaman/mm_slide.png)
-![Megaman Charge Lv2](images/megaman/mm_charge2.png)
-![Jet Megaman](images/megaman/jet_mm.png)
-![Power Megaman](images/megaman/power_mm.png)
+
 
 #### Special weapons: (WIP)
 
@@ -83,6 +85,10 @@ Due to lower attack and defense compared to X, this cause a much higher difficul
 ### Mega Man X
 ![Mega Man X](images/megamanx/mmx.png)
 
+![LV2 charge](images/megamanx/x_b_c_lv2.png)
+![LV3 charge](images/megamanx/x_b_c_lv3.png)
+![Hadouken](images/megamanx/mmx_hadouken.png)
+
 Mega Man X, the main character of the Mega Man X series, is currently built with Mega Man X8 as the temporary development base, so his abilities are a little stronger for now. Once the armor set is finished, some of his functions will be adjusted to be closer to Mega Man X1.
 
 He is intended to be the main playable character and the baseline for game difficulty, so in theory playing as X should provide the lowest difficulty experience.
@@ -94,8 +100,6 @@ He is intended to be the main playable character and the baseline for game diffi
 - Level 3 X-Buster Charge Shot: Based on the third charge level from Mega Man X8. Compared to Level 2, it has higher impact value and damage. In the future this may be limited, and once the armor is completed it will at least be replaced by the Spiral Crush Shot.
 - Armor: Work in progress. This is a huge amount of work, so please be patient.
 
-![LV2 charge](images/megamanx/x_b_c_lv2.png)
-![LV3 charge](images/megamanx/x_b_c_lv3.png)
 
 #### Special weapons:
 
@@ -112,7 +116,6 @@ He is intended to be the main playable character and the baseline for game diffi
 
 ##### Hadouken: A famous Street Fighter finishing move that everyone knows well. In this game it is also an extremely powerful special attack. It will only become a condition-based unlock after the full game is completed, but during the test phase you can use it freely.
 
-![Hadouken](images/megamanx/mmx_hadouken.png)
 
 ##### Shoryuken: WIP. Another well-known Street Fighter finishing move, still under development.
 
@@ -129,6 +132,13 @@ He is intended to be the main playable character and the baseline for game diffi
 ### Zero
 ![Zero](images/zero/zero.png)
 
+![ZeroSaberSlashCombo](images/zero/zero_zs3combo.gif)
+![ZeroSaberSlashCombo2](images/zero/zero_zs3combo2.gif)
+![zero_zs_u_d](images/zero/zero_zs_u_d.gif)
+![zero_zs3comboSP](images/zero/zero_zs3comboSP.gif)
+![zero_zs_ryuenjin](images/zero/zero_zs_ryuenjin.gif)
+![zero_zs_hyoretsuzan](images/zero/zero_zs_hyoretsuzan.gif)
+
 Zero is different from X. His design is primarily based on Mega Man X4, and in addition to the Zero Saber he is planned to have two normal weapons as well, both of which are still in development.
 
 The Zero Saber takes inspiration from the Zero series, with adjusted feel and combo behavior. Against bosses during invincibility frames, most moves can ignore reduced damage and still deal very high damage. Special moves now consume energy, but energy can be restored by landing normal attacks, and it will also recover slowly when he is not attacking. Zero will probably receive the most development effort of all characters, and I hope he can offer an experience that feels different from the original games.
@@ -141,13 +151,6 @@ The Zero Saber takes inspiration from the Zero series, with adjusted feel and co
 - Zero Saber Combo
 - Pulse Chain (WIP)
 - Lethal Slasher (WIP)
-
-![ZeroSaberSlashCombo](images/zero/zero_zs3combo.gif)
-![ZeroSaberSlashCombo2](images/zero/zero_zs3combo2.gif)
-![zero_zs_u_d](images/zero/zero_zs_u_d.gif)
-![zero_zs3comboSP](images/zero/zero_zs3comboSP.gif)
-![zero_zs_ryuenjin](images/zero/zero_zs_ryuenjin.gif)
-![zero_zs_hyoretsuzan](images/zero/zero_zs_hyoretsuzan.gif)
 
 #### Normal Weapons:
 
@@ -189,6 +192,9 @@ Their effects are similar: weaker impact during execution, but faster attack tim
 ### Proto Man
 ![Proto Man](images/protoman/protoman.png)
 
+![ProtoShield](images/protoman/protoman_shield.png)
+![ProtoStrike](images/protoman/protoman_strike.png)
+
 Proto Man follows the Mega Man series concept where his defense is only half of Mega Man's. To compensate for this reduced defense, his Buster is designed so that Charge Shots can be fired directly by spending energy. As long as he has enough energy, he can keep rapid firing. When energy is low, he can use his normal Buster, which only fires two shots once, and restore energy quickly by hitting enemies. Energy also slowly recovers when he is not attacking.
 
 In addition, Proto Shield can be activated while standing or jumping. Making good use of the shield allows him to block most enemy projectiles, greatly improving both survival and strategic depth.
@@ -204,8 +210,7 @@ However, not all of his features have been designed yet, and his Special Move is
 - Big Bang Strike (WIP)
 - Movement Support (WIP)
 
-![ProtoShield](images/protoman/protoman_shield.png)
-![ProtoStrike](images/protoman/protoman_strike.png)
+
 
 #### Special weapons: (WIP)
 
@@ -216,16 +221,23 @@ However, not all of his features have been designed yet, and his Special Move is
 - Attack2 (Rapid Proto Buster) -> V
 - Up / Down / Left / Right -> Arrow keys
 
-### Bass (WIP)
+### Bass
 ![Bass](images/bass/bass.png)
+
+![BassDashJump](images/bass/bass_dash_jump.png)
+![BassTreblaBoost](images/bass/bass_treble_boost_buster.png)
 
 Bass is based on Mega Man & Bass.
 
-He is designed around Dash Jump and Double Jump, and his Bass Buster is a rapid-fire weapon with lower damage than the Mega Buster, but faster firing speed and projectile speed.
+His gameplay revolves around Dash Jump and Double Jump mobility, and his Bass Buster is a rapid-fire weapon with lower damage than the Mega Buster, but a much higher firing rate and projectile speed.
 
-Because its damage is lower, it can ignore the usual reduced damage against bosses during invincibility frames.
+Because the Bass Buster deals less damage per shot, it ignores the reduced damage normally caused by boss invincibility frames, allowing Bass to maintain consistent damage output.
 
-When combined with Treble, Bass can fly and unleash stronger attacks, but this part is still work in progress. Please be patient.
+When combined with Treble, Bass gains the ability to fly and unleash more powerful attacks. While in this form, he fires a spread of five Bass Buster shots straight ahead. Each shot deals damage independently, allowing Bass to inflict massive damage at close range when multiple shots connect with the same target.
+
+However, attacking consumes even more energy than flying, making energy management a key part of mastering this form. Players must carefully decide whether to spend their limited energy on mobility or firepower.
+
+Energy gradually recovers when not in use, and landing hits with the normal Bass Buster restores additional energy. Effective energy management allows players to maximize the potential of this powerful form.
 
 #### Abilities:
 
@@ -233,9 +245,7 @@ When combined with Treble, Bass can fly and unleash stronger attacks, but this p
 - Slide
 - Double Jump
 - Bass Buster Rapid Shot
-- Treble Boost (WIP)
-
-![BassDashJump](images/bass/bass_dash_jump.png)
+- Treble Boost
 
 #### Special weapons: (WIP)
 
