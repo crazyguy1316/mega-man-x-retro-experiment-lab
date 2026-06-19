@@ -254,6 +254,8 @@ Energy gradually recovers when not in use, and landing hits with the normal Bass
 - Jump -> X
 - Double Jump (mid-air, can use in dash jump) -> X
 - Attack1 (Bass Buster rapid fire)  -> C
+- Special action1 (Treble Boost transform and cancel) -> S
+- Treble Boost Buster (during Treble Boost) -> C
 - Up / Down / Left / Right -> Arrow keys
 
 
