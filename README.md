@@ -13,7 +13,8 @@ If you're interested in the project and use a Windows PC, feel free to download 
 
 
 [Download link]
-[https://drive.google.com/file/d/1JnDRNqlzSvG4I0uj9LAFu0qrZu1nxe3L/view?usp=sharing]
+[https://drive.google.com/file/d/1o3cDEq8MlJcKb8SBCPaLicKCttkLaLrB/view?usp=sharing]
+
 
 Video Demo and SNS link
 - Youtube: [https://www.youtube.com/@CrimsonCrazyGuy]
