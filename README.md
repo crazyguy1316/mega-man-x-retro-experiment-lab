@@ -22,6 +22,14 @@ Video Demo and SNS link
 - X/Twitter: [https://x.com/CrimsonCrazyGuy]
 
 ### Gameplay Screenshots
+![zero_gif](images/zero/20260625_zero_show_case_gif.gif)
+
+![mm_gif](images/megaman/20260625_megaman_show_case_gif.gif)
+
+![protoman_gif](images/protoman/20260625_protoman_show_case_gif.gif)
+
+![bass_gif](images/bass/20260625_bass_show_case_gif.gif)
+
 ![Screenshot 1](images/screenshot/screenshot-01.png)
 
 ![Screenshot 2](images/screenshot/screenshot-02.png)
@@ -53,6 +61,8 @@ Some mechanics have been intentionally adjusted from the original games. For exa
 
 ### Mega Man
 ![Megaman](images/megaman/mm.png)
+
+![mm_gif](images/megaman/20260625_megaman_show_case_gif.gif)
 
 ![Megaman sliding](images/megaman/mm_slide.png)
 ![Megaman Charge Lv2](images/megaman/mm_charge2.png)
@@ -133,6 +143,8 @@ He is intended to be the main playable character and the baseline for game diffi
 ### Zero
 ![Zero](images/zero/zero.png)
 
+![zero_gif](images/zero/20260625_zero_show_case_gif.gif)
+
 ![ZeroSaberSlashCombo](images/zero/zero_zs3combo.gif)
 ![ZeroSaberSlashCombo2](images/zero/zero_zs3combo2.gif)
 ![zero_zs_u_d](images/zero/zero_zs_u_d.gif)
@@ -193,6 +205,8 @@ Their effects are similar: weaker impact during execution, but faster attack tim
 ### Proto Man
 ![Proto Man](images/protoman/protoman.png)
 
+![protoman_gif](images/protoman/20260625_protoman_show_case_gif.gif)
+
 ![ProtoShield](images/protoman/protoman_shield.png)
 ![ProtoStrike](images/protoman/protoman_strike.png)
 
@@ -224,6 +238,8 @@ However, not all of his features have been designed yet, and his Special Move is
 
 ### Bass
 ![Bass](images/bass/bass.png)
+
+![bass_gif](images/bass/20260625_bass_show_case_gif.gif)
 
 ![BassDashJump](images/bass/bass_dash_jump.png)
 ![BassTreblaBoost](images/bass/bass_treble_boost_buster.png)
