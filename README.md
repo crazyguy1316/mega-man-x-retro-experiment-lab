@@ -12,7 +12,7 @@ As the project is still far from its final vision, content will be released incr
 If you're interested in the project and use a Windows PC, feel free to download and try the latest available build.
 
 
-[Download link] (update at 2026 0706)
+[Download link] (update at 260706)
 [https://drive.google.com/file/d/13729NywEdIYpCkBBh5GMk7mypVozXKpL/view?usp=sharing]
 
 
@@ -368,4 +368,22 @@ Nes character cannot use SNES character's special weapon, so there will be 8 bos
 ## Download
 [TODO]
 
+## Credits
 
+**Project Creator**
+
+Programming, gameplay design, and the majority of sprite artwork were created by project owner **CrimsonCrazyGuy(Kaiji1315)**.
+
+**Special Thanks**
+
+- **firstjectsnowflakes35**
+  - For sharing Godot source code that served as a valuable reference during the implementation of various gameplay systems.
+  - https://www.youtube.com/@firstjectsnowflakes35
+
+- **fallensoldier420**
+  - Some character sprites used in this project are based on artwork created by fallensoldier420 and are used with the author's permission.
+  - https://www.deviantart.com/fallensoldier420
+
+- **mistermike**
+  - For preparing and sharing high-quality character sprite resources through The Spriters Resource.
+  - https://www.spriters-resource.com/profile/mistermike/
