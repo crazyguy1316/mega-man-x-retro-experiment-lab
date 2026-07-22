@@ -315,6 +315,7 @@ This is the boss with the highest level of completion so far, but some small det
 
 ### Spark Mandrill
 ![SparkMandrill](images/boss/spark_mandrill/spark_mandrill.png)
+![SparkMandrill_railgun](images/boss/spark_mandrill/spark_mandrill_railgun.gif)
 Spark Mandrill is designed to be a high-pressure close-range boss that excels at overwhelming players with aggressive movement and powerful melee attacks.
 
 Compared to the original game, his AI has been expanded with additional behaviors and conditional attack patterns, allowing him to react more dynamically to different situations and playable characters. While he remains vulnerable to Ice-based weapons, repeatedly freezing him will gradually increase his freeze resistance, preventing players from defeating him through permanent freeze loops alone.
