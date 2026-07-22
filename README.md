@@ -59,45 +59,14 @@ Some mechanics have been intentionally adjusted from the original games. For exa
 
 ## Playable Characters
 
-### Mega Man
-![Megaman](images/megaman/mm.png)
-
-![mm_gif](images/megaman/20260625_megaman_show_case_gif.gif)
-
-![Megaman sliding](images/megaman/mm_slide.png)
-![Megaman Charge Lv2](images/megaman/mm_charge2.png)
-![Jet Megaman](images/megaman/jet_mm.png)
-![Power Megaman](images/megaman/power_mm.png)
-
-Mega Man, the main character from the original series, faces enemies that are more than ten decades ahead in technology in Mega Man X. That means he has a much harder time against them than before, but his built-in Jet and Power Adapters also give him more options in battle than ever. It all comes down to how the player uses each form's tactics.
-Due to lower attack and defense compared to X, this cause a much higher difficulty mainly suited for experienced players.
-
-#### Abilities:
-
-- Sliding: A faithful recreation of the original slide that also reduces his hurtbox.
-- Level 2 Mega Buster Charge Shot: Based on the charge shot from Mega Man 5, with higher power.
-- Jet Mega Man Adaptor: Based on the Jet Adaptor from Mega Man 6. In addition to flight, it also increases running speed and greatly improves mobility.
-- Power Mega Man Adaptor: Based on the Power Adaptor from Mega Man 6. Compared to the original, it deals stronger damage, can destroy special objects and some boss projectiles, and has a higher impact value than the Mega Buster Charge Shot.
-
-
-
-#### Special weapons: (WIP)
-
-#### Controls
-- Jump -> X
-- Sliding (on ground) -> Down + X
-- Attack1 (Mega Buster and charge) -> C
-- Attack2 (Rapid Mega Buster) -> V
-- Special action1 (Jet Adaptor and cancel) -> S
-- Special action2 (Power Adaptor and cancel) -> F
-- Return to Normal Mega Man -> S+F
-- Up / Down / Left / Right -> Arrow keys
-
 ### Mega Man X
 ![Mega Man X](images/megamanx/mmx.png)
 
 ![LV2 charge](images/megamanx/x_b_c_lv2.png)
 ![LV3 charge](images/megamanx/x_b_c_lv3.png)
+![Shotgun Ice](images/megamanx/shotgunIce.gif)
+![Shotgun Ice charge](images/megamanx/shotgunIceCharge.gif)
+![Shotgun Ice charge use](images/megamanx/shotgun_ice_charge_vs_spark_mandrill.gif)
 ![Hadouken](images/megamanx/mmx_hadouken.png)
 
 Mega Man X, the main character of the Mega Man X series, is currently built with Mega Man X8 as the temporary development base, so his abilities are a little stronger for now. Once the armor set is finished, some of his functions will be adjusted to be closer to Mega Man X1.
@@ -113,8 +82,7 @@ He is intended to be the main playable character and the baseline for game diffi
 
 
 #### Special weapons:
-
-- Shotgun Ice (WIP)
+- Shotgun Ice: Design as GameBoy xtreme version, normal shot still can reflect by wall, but charge version also can reflect by wall and cause large damage
 - Electric Spark (WIP)
 - Rolling Shield (WIP)
 - Homing Torpedo (WIP)
@@ -151,6 +119,7 @@ He is intended to be the main playable character and the baseline for game diffi
 ![zero_zs3comboSP](images/zero/zero_zs3comboSP.gif)
 ![zero_zs_ryuenjin](images/zero/zero_zs_ryuenjin.gif)
 ![zero_zs_hyoretsuzan](images/zero/zero_zs_hyoretsuzan.gif)
+![zero_zs_5_hit_combo](images/zero/Zero_5_hit_combo.gif)
 
 Zero is different from X. His design is primarily based on Mega Man X4, and in addition to the Zero Saber he is planned to have two normal weapons as well, both of which are still in development.
 
@@ -202,6 +171,43 @@ Their effects are similar: weaker impact during execution, but faster attack tim
 - Hyouretsuzan (mid-air) -> Down + V
 - Up / Down / Left / Right -> Arrow keys
 
+
+### Mega Man
+![Megaman](images/megaman/mm.png)
+![mm_gif](images/megaman/20260625_megaman_show_case_gif.gif)
+![Megaman sliding](images/megaman/mm_slide.png)
+![Megaman Charge Lv2](images/megaman/mm_charge2.png)
+![Jet Megaman](images/megaman/jet_mm.png)
+![Power Megaman](images/megaman/power_mm.png)
+![Blizzard attack](images/megaman/bliaazrd_attack_charge_hd.gif)
+
+Mega Man, the main character from the original series, faces enemies that are more than ten decades ahead in technology in Mega Man X. That means he has a much harder time against them than before, but his built-in Jet and Power Adapters also give him more options in battle than ever. It all comes down to how the player uses each form's tactics.
+Due to lower attack and defense compared to X, this cause a much higher difficulty mainly suited for experienced players.
+
+#### Abilities:
+
+- Sliding: A faithful recreation of the original slide that also reduces his hurtbox.
+- Level 2 Mega Buster Charge Shot: Based on the charge shot from Mega Man 5, with higher power.
+- Jet Mega Man Adaptor: Based on the Jet Adaptor from Mega Man 6. In addition to flight, it also increases running speed and greatly improves mobility.
+- Power Mega Man Adaptor: Based on the Power Adaptor from Mega Man 6. Compared to the original, it deals stronger damage, can destroy special objects and some boss projectiles, and has a higher impact value than the Mega Buster Charge Shot.
+
+
+
+#### Special weapons: 
+- Blizzard Attack: Designed as NES Mega Man 6, can spawn 4 snow flake behind Mega man and shoot, but Mega man can charge to summon a ice sculpture of Blizzard man, then Blizzard man sculpture will roll to attack every enemy he hit.
+- (WIP)
+
+#### Controls
+- Jump -> X
+- Sliding (on ground) -> Down + X
+- Attack1 (Mega Buster and charge) -> C
+- Attack2 (Rapid Mega Buster) -> V
+- Special action1 (Jet Adaptor and cancel) -> S
+- Special action2 (Power Adaptor and cancel) -> F
+- Return to Normal Mega Man -> S+F
+- Up / Down / Left / Right -> Arrow keys
+
+
 ### Proto Man
 ![Proto Man](images/protoman/protoman.png)
 
@@ -214,7 +220,8 @@ Proto Man follows the Mega Man series concept where his defense is only half of 
 
 In addition, Proto Shield can be activated while standing or jumping. Making good use of the shield allows him to block most enemy projectiles, greatly improving both survival and strategic depth.
 
-However, not all of his features have been designed yet, and his Special Move is still WIP, so please be patient.
+Besides Proto man can use more energy to perform Proto Shield Dash, this skill use more energy but brings i-frames to Proto man, and also has a good damage output.
+
 
 #### Abilities:
 
@@ -222,19 +229,24 @@ However, not all of his features have been designed yet, and his Special Move is
 - Proto Man Strike
 - Proto Buster
 - Proto Shield
-- Big Bang Strike (WIP)
+- Proto Shield Dash
+- Proto Coil
 - Movement Support (WIP)
 
-
-
-#### Special weapons: (WIP)
+#### Special weapons: 
+- Blizzard Attack: Designed as NES Mega Man 6, can spawn 4 snow flake behind Mega man and shoot
+- (WIP)
 
 #### Controls
 - Jump -> X
 - Sliding (on ground) -> Down + X
 - Attack1 (Proto Strike) -> C
 - Attack2 (Rapid Proto Buster) -> V
+- Summon Proto Coil -> S
+- Proto Shield Dash (need enough energy) -> F
 - Up / Down / Left / Right -> Arrow keys
+
+
 
 ### Bass
 ![Bass](images/bass/bass.png)
@@ -264,7 +276,9 @@ Energy gradually recovers when not in use, and landing hits with the normal Bass
 - Bass Buster Rapid Shot
 - Treble Boost
 
-#### Special weapons: (WIP)
+#### Special weapons: 
+- Blizzard Attack: Designed as NES Mega Man 6, can spawn 4 snow flake behind Mega man and shoot
+- (WIP)
 
 #### Controls
 - Dash -> Z
@@ -297,10 +311,13 @@ However, his original performance is far too weak. Aside from the armor that abs
 ![ChillPenguin](images/boss/chill_penguin/chill_penguin.png)
 
 This is the boss with the highest level of completion so far, but some small details are still being adjusted. In the playtest version, you should be able to experience things that feel noticeably different from the original game.
-[TODO]
 
-### Spark Mandrill (WIP)
-[TODO]
+
+### Spark Mandrill
+![SparkMandrill](images/boss/spark_mandrill/spark_mandrill.png)
+Spark Mandrill is designed to be a high-pressure close-range boss that excels at overwhelming players with aggressive movement and powerful melee attacks.
+
+Compared to the original game, his AI has been expanded with additional behaviors and conditional attack patterns, allowing him to react more dynamically to different situations and playable characters. While he remains vulnerable to Ice-based weapons, repeatedly freezing him will gradually increase his freeze resistance, preventing players from defeating him through permanent freeze loops alone.
 
 ### Armored Armadillo (WIP)
 [TODO]
