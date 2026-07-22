@@ -13,7 +13,7 @@ If you're interested in the project and use a Windows PC, feel free to download 
 
 
 [Download link] (update at 260721)
-[https://drive.google.com/file/d/1ztHPJuFKhz0mTq0T0MjMDS4QAaZDIgwH/view?usp=sharing]
+[https://drive.google.com/file/d/1muj0hS4zwmCPEeJZ5EBRSgS-DuiHkzJz/view?usp=sharing]
 
 
 Video Demo and SNS link
