@@ -376,16 +376,16 @@ Nes character cannot use SNES character's special weapon, so there will be 8 bos
 
 ### Current Version
 20260721 - can test with boss fight:
-Chill Penguin
-Spark Mandrill
+- Chill Penguin
+- Spark Mandrill
 
 ### In Progress
-Mega Man - weapon: flame blast
-Mega Man X - weapon: fire wave
+- Mega Man - weapon: flame blast
+- Mega Man X - weapon: fire wave
 
 ### Planned Features
-Stages
-Special Weapons for Mega Man and X
+- Stages
+- Special Weapons for Mega Man and X
 
 
 ## Credits
