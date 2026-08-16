@@ -12,8 +12,8 @@ As the project is still far from its final vision, content will be released incr
 If you're interested in the project and use a Windows PC, feel free to download and try the latest available build.
 
 
-[Download link] (update at 260721)
-[https://drive.google.com/file/d/1muj0hS4zwmCPEeJZ5EBRSgS-DuiHkzJz/view?usp=sharing]
+[Download link] (update at 260817)
+[https://drive.google.com/file/d/1VjHS_ydTrpEZlzq9d9suO2VUqmO2XmQd/view?usp=sharing]
 
 
 Video Demo and SNS link
