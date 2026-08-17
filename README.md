@@ -12,8 +12,11 @@ As the project is still far from its final vision, content will be released incr
 If you're interested in the project and use a Windows PC, feel free to download and try the latest available build.
 
 
-[Download link] (update at 260817)
-[https://drive.google.com/file/d/1VjHS_ydTrpEZlzq9d9suO2VUqmO2XmQd/view?usp=sharing]
+[Download link] (update at 260818)
+[https://drive.google.com/file/d/14nvms_yKuiHeL7j8oEONQR1hzO0_QR_N/view?usp=sharing]
+
+### Current feature and fix (update at 260818)
+- fix NES Flame Blast charge hitbox and adjust
 
 
 Video Demo and SNS link
