@@ -13,10 +13,10 @@ If you're interested in the project and use a Windows PC, feel free to download 
 
 
 [Download link] (update at 260818)
-[https://drive.google.com/file/d/14nvms_yKuiHeL7j8oEONQR1hzO0_QR_N/view?usp=sharing]
+[https://drive.google.com/file/d/1VrNiATqRXDuZGkWyjtbizCxVKH1GbkUE/view?usp=sharing]
 
-### Current feature and fix (update at 260818)
-- fix NES Flame Blast charge hitbox and adjust
+### Current feature and fix (update at 261107)
+- add Flame Mammoth and other features
 
 
 Video Demo and SNS link
@@ -410,3 +410,9 @@ Programming, gameplay design, and the majority of sprite artwork were created by
 - **mistermike**
   - For preparing and sharing high-quality character sprite resources through The Spriters Resource.
   - https://www.spriters-resource.com/profile/mistermike/
+
+- **masque**
+  - For preparing and sharing high-quality character sprite resources through The Spriters Resource.
+
+- **Lord Zymeth**
+  - For preparing and sharing high-quality character sprite resources with Castlevania Dracula X through The Spriters Resource.
