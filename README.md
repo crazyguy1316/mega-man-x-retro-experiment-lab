@@ -1,5 +1,7 @@
 ﻿# Mega Man X Retro Experiment Lab
 
+## Development of both the game and its codebase will be on hold for a while. This does NOT mean the project is being abandoned or discontinued. Due to some development challenges, I've decided to move the entire project to Godot 4 and rewrite it from scratch earlier than originally planned.
+
 ## Project Overview
 
 ### Short Description
@@ -81,18 +83,27 @@ He is intended to be the main playable character and the baseline for game diffi
 - Dash / Air Dash: A movement action similar to the original games. The Air Dash may later have situational restrictions depending on the final design.
 - Wall Kick: A signature move exclusive to X-series characters. This should not need much explanation.
 - Level 3 X-Buster Charge Shot: Based on the third charge level from Mega Man X8. Compared to Level 2, it has higher impact value and damage. In the future this may be limited, and once the armor is completed it will at least be replaced by the Spiral Crush Shot.
-- Armor: Work in progress. This is a huge amount of work, so please be patient.
+- Armor: Work in progress. This is a huge amount of work, so please be patient. There is a first armor prototype test with Spiral Crush Buster Currently.
 
+Here is the Armor list in plan:
+- First Armor
+- Giga Armor
+- Max Armor (include golden)
+- Fourth Armor (and Ultimate Armor)
+- Falcon Armor
+- Gaia Armor
+- Blade Armor
+- Shadow Armor
 
 #### Special weapons:
 - Shotgun Ice: Design as GameBoy xtreme version, normal shot still can reflect by wall, but charge version also can reflect by wall and cause large damage
-- Electric Spark (WIP)
-- Rolling Shield (WIP)
-- Homing Torpedo (WIP)
-- Boomerang Cutter (WIP)
-- Chameleon Sting (WIP)
-- Storm Tornado (WIP)
-- Fire Wave (WIP)
+- Electric Spark: WIP, next version of Godot 4 will have new feature on normal shot
+- Rolling Shield: A tribute to the original weapon, with several enhancements. It features a higher Impact Value, allowing it to partially break through enemy defenses, along with powerful projectile-canceling capabilities that make it an effective defensive weapon. While the charged shield is active, you can switch to other weapons without losing its protection.
+- Homing Torpedo: Its mechanics remain largely faithful to the original. However, thanks to system modifications, it can continue dealing damage to bosses even during their invincibility frames (i-frames). Even against bosses that aren't weak to this weapon, the charged version's five-projectile spread can still deliver respectable damage.
+- Boomerang Cutter: The standard shot stays as close to the original as possible. However, the charged version features a redesigned trajectory and benefits from system modifications, giving it considerable offensive power at mid-range against both regular enemies and bosses.
+- Chameleon Sting: Like Rolling Shield, this weapon will remain largely faithful to the original, with only minor adjustments. However, the ability to switch weapons during the charged version's invincibility period should make it considerably more effective than in the original SNES version.
+- Storm Tornado: The standard shot remains similar to the original, dealing high multi-hit damage to enemies directly ahead. However, the charged version has been redesigned into a larger and more powerful tornado, capable of inflicting devastating damage on nearby enemies.
+- Fire Wave: The standard shot is based on the adjusted version from Mega Man Xtreme, using a modified version of the original SNES charged attack. It now produces only six pillars of fire. The charged version has been redesigned as an enhanced attack that generates pillars of fire directly from the ground, with several times the original's hitbox coverage and damage output.
 
 #### Special Attack:
 
@@ -134,8 +145,8 @@ The Zero Saber takes inspiration from the Zero series, with adjusted feel and co
 - Air Dash
 - Wall Kick
 - Zero Saber Combo
-- Pulse Chain (WIP)
-- Lethal Slasher (WIP)
+- Pulse Chain
+- Lethal Slasher
 
 #### Normal Weapons:
 
@@ -144,20 +155,23 @@ In the middle of the combo, he can cancel into Upper Slash or Drop Slash.
 These combo routes have weaker impact, but they shorten attack time and allow higher DPS.
 The combo options for Upper Slash and Drop Slash can also be swapped into the special moves Ryuenjin and Hyouretsuzan.
 Their effects are similar: weaker impact during execution, but faster attack timing and higher DPS.
-- Pulse Chain: A mid-range weapon with weaker damage, but it can quickly replenish weapon energy. (WIP)
-- Lethal Slasher: A close-range weapon that can be used while moving. (WIP)
+- Earth Crush [Z. Saber]: Inspired by a similar technique from X2. Zero slams the ground, triggering a massive energy explosion that deals heavy damage to enemies around him. It can also inflict considerable impact damage on bosses.
+- Pulse Chain: A mid-range weapon with weaker damage, but it can quickly replenish weapon energy, and can attack with 8 directions.
+- Lethal Slasher: A close-range weapon that can be used while moving.
+
 
 #### Special moves (Japanese name will show kanji):
 
-- Hyouretsuzan(冰烈斬): [Z. Saber] An ice-element descending slash that hits once but dealing with high damage.
-- Raikousen(雷光閃): [Z. Saber] A lightning-element invincible horizontal dash slash that also supports air dashing. (WIP)
-- Ennbuzan(圓舞斬): [Z. Saber] A fast 360-degree spinning slash with projectile-clearing effect. (WIP)
-- Reppumai(烈風舞): [L. Slasher] (WIP)
-- Shuneishin(瞬影震): [P. Chain] (WIP)
-- Roueisyu(朧影襲), Roueimai(朧影舞): [P. Chain] (WIP)
-- Reppujin(烈風刃): [L. Slasher] A burst of four-times-speed rapid slashes. One input = four normal attacks. (WIP)
-- Ryuuenjin(龍炎刃): [Z. Saber] A fire-element rising slash with multiple hits.
-- Earth Crush: [Z. Saber] (WIP)
+- Chill Penguin => Hyouretsuzan(冰烈斬) [Z. Saber]: An ice-element descending slash that hits once but dealing with high damage.
+- Spark Mandrill => Raikousen(雷光閃) [Z. Saber]: A lightning-element invincible horizontal dash slash that also supports air dashing. Zero is invincible during the move and briefly afterward.
+- Armored Armadillo => Ennbuzan(圓舞斬) [Z. Saber]: A fast 360-degree spinning slash with projectile-clearing effect.
+- Launcher Octupus => Reppumai(烈風舞) [L. Slasher]: Fires four homing blade waves simultaneously, one in each direction (up, down, left, and right), each delivering multiple consecutive slashes.
+- Launcher Octupus => Shuneimai(瞬影舞) [P. Chain]: Activated by charging P. Chain. Creates a life-draining vortex centered around Zero, similar to Launcher Octopus's attack. Enemies caught inside take continuous damage, and hitting an enemy a sufficient number of times restores a small amount of Zero's HP.
+- Boomer Kuwanger => Shuneishin(瞬影震) [P. Chain]: After hitting a normal P. Chain attack on an enemy, press the special attack button to instantly dash to the target and deliver a high-damage slash. Zero is invincible during the move and for a short period afterward.
+- Sting Chameleon => Roueisyu(朧影襲) [P. Chain]: While equipped with P. Chain, press the special attack button to rapidly launch explosive kunai. The explosions also inflict additional impact damage. 
+- Sting Chameleon => Roueimai(朧影舞) [P. Chain]: Activated by pressing the special attack button, Zero throws a smoke bomb at his current position, creating a stunning effect. Zero is invincible during the move and briefly afterward.
+- Storm Eagle => Reppujin(烈風刃) [L. Slasher]: A burst of four-times-speed rapid slashes. One input = four normal attacks.
+- Flame Mammoth => Ryuuenjin(龍炎刃) [Z. Saber]: A fire-element rising slash with multiple hits.
 
 
 #### Controls:
@@ -165,13 +179,23 @@ Their effects are similar: weaker impact during execution, but faster attack tim
 - Air dash (mid-air) -> Z
 - Jump -> X
 - Double Jump (mid-air) -> X
-- Attack1 (ZeroSaber) -> C
+- ZeroSaber:
 - ZeroSaberSlash1,2,3 combo (on ground) -> C,C,C
 - Upper Slash (on ground) -> Up + C
 - Drop Slash (mid-air) -> Down + C
-- Attack2 (Special move button)-> V
 - Ryuuenjin (on ground) -> Up + V
 - Hyouretsuzan (mid-air) -> Down + V
+- Ennbuzan (on ground or mid-air) -> V
+- Raikousen -> DASH + V (on ground) or Left or Right + V (mid-air)
+- Earth Crush (on ground) -> F
+- Lethel Slasher:
+- Reppujin -> V
+- Reppumai -> F
+- Pulse Chain:
+- Shuneishin -> S (when hit enemy with aiming sign)
+- Shuneimai -> C Pressed (charge)
+- Roueisyu -> V
+- Roueimai -> F
 - Up / Down / Left / Right -> Arrow keys
 
 
@@ -198,7 +222,13 @@ Due to lower attack and defense compared to X, this cause a much higher difficul
 
 #### Special weapons: 
 - Blizzard Attack: Designed as NES Mega Man 6, can spawn 4 snow flake behind Mega man and shoot, but Mega man can charge to summon a ice sculpture of Blizzard man, then Blizzard man sculpture will roll to attack every enemy he hit.
-- (WIP)
+- Flame Blast: Its basic functionality is inspired by the NES version of Mega Man 6, but the fire pillars now pierce through enemies and can deal continuous damage. The charged version summons Flame Man to unleash a series of fire pillar attacks, followed by Zero transforming into a fireball and charging forward.
+- Rolling Cutter: Its basic functionality is similar to the NES version of Mega Man. Once fired, the blade follows an arc-shaped trajectory before returning to Zero. The charged version has been redesigned after the Super Cutter attack in Cut Man's stage, launching five powerful blades simultaneously, with piercing capabilities and multi-hit damage.
+- Air Shooter: Its basic functionality is similar to the NES version of Mega Man 2. The charged version combines several of Air Man's signature tornado patterns into a single powerful barrage. It covers an enormous area, and the tornadoes can pierce through enemies to deal multiple hits, making it particularly effective against large enemies.
+- Triple Blade: (WIP)
+- Dive Missile: (WIP)
+- Leaf Shield: (WIP)
+- Spark Shot: (WIP)
 
 #### Controls
 - Jump -> X
@@ -237,7 +267,6 @@ Besides Proto man can use more energy to perform Proto Shield Dash, this skill u
 - Movement Support (WIP)
 
 #### Special weapons: 
-- Blizzard Attack: Designed as NES Mega Man 6, can spawn 4 snow flake behind Mega man and shoot
 - (WIP)
 
 #### Controls
@@ -280,7 +309,6 @@ Energy gradually recovers when not in use, and landing hits with the normal Bass
 - Treble Boost
 
 #### Special weapons: 
-- Blizzard Attack: Designed as NES Mega Man 6, can spawn 4 snow flake behind Mega man and shoot
 - (WIP)
 
 #### Controls
@@ -302,11 +330,19 @@ However, his original performance is far too weak. Aside from the armor that abs
 
 ### Axl (WIP)
 
+### Sigma (WIP)
+
+### Iris (WIP)
+
 ### Future feature of other Capcom Characters
+
+#### Street Fighters (WIP)
+
+##### Ryu (WIP)
 
 #### Resident Evil series (WIP)
 
-#### Street Fighters (WIP)
+##### Leon (WIP)
 
 ## Bosses & stages (WIP)
 
@@ -329,7 +365,7 @@ Compared to the original game, his AI has been expanded with additional behavior
 ### Launch Octopus (WIP)
 [TODO]
 
-### Boomerang Kuwanger (WIP)
+### Boomer Kuwanger (WIP)
 [TODO]
 
 ### Sting Chameleon (WIP)
@@ -338,8 +374,12 @@ Compared to the original game, his AI has been expanded with additional behavior
 ### Storm Eagle (WIP)
 [TODO]
 
-### Flame Mammoth (WIP)
-[TODO]
+### Flame Mammoth
+
+Compared to the original, Flame Mammoth will feature a much wider variety of fire-based attacks, along with a significant increase in difficulty. However, his flames can be extinguished using wind-element weapons, providing a way to reduce the challenge.
+
+Just like in the original, using the appropriate weapon can sever his trunk and weaken him.
+More details will be included in the first Godot 4 release.
 
 ### Bospider (WIP)
 [TODO]
