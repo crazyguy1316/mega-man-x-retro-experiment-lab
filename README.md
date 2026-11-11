@@ -156,9 +156,8 @@ Here is the Armor list in plan:
 ![zero_zs_enbuzan](images/zero/enbuzan.png)
 ![lethal_slasher](images/zero/lethal_slasher_1.png)
 ![Reppumai](images/zero/Reppumai_1.png)
-
+![Reppujin](images/zero/Reppujin_1.png)
 ![pulse_shain](images/zero/pulse_chain_1.png)
-
 ![Shuneimai](images/zero/Shuneimai_1.png)
 ![Shuneisyu](images/zero/Shuneishu_1.png)
 ![Shuneisyu](images/zero/Shuneishu_2.png)
@@ -167,7 +166,7 @@ Here is the Armor list in plan:
 ![Roueimai](images/zero/Roueimai_2.png)
 ![Roueimai](images/zero/Roueimai_3.png)
 
-![lethal_slasher](images/zero/lethal_slasher_1.png)
+
 
 
 Zero is different from X. His design is primarily based on Mega Man X4, and in addition to the Zero Saber he is planned to have two normal weapons as well, both of which are still in development.
