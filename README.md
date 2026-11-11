@@ -14,7 +14,7 @@ As the project is still far from its final vision, content will be released incr
 If you're interested in the project and use a Windows PC, feel free to download and try the latest available build.
 
 
-[Download link] (update at 260818)
+[Download link] (update at 261107)
 [https://drive.google.com/file/d/1VrNiATqRXDuZGkWyjtbizCxVKH1GbkUE/view?usp=sharing]
 
 ### Current feature and fix (update at 261107)
