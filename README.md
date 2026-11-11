@@ -45,6 +45,8 @@ Video Demo and SNS link
 
 ![Screenshot 5](images/screenshot/screenshot-05.png)
 
+![Screenshot 6](images/screenshot/screenshot-06.png)
+
 Since the key configuration page is not finished yet, please use the keyboard mapping below for AutoHotKey or play directly with the keyboard:
 
 ### Control buttons:
@@ -72,6 +74,22 @@ Some mechanics have been intentionally adjusted from the original games. For exa
 ![Shotgun Ice](images/megamanx/shotgunIce.gif)
 ![Shotgun Ice charge](images/megamanx/shotgunIceCharge.gif)
 ![Shotgun Ice charge use](images/megamanx/shotgun_ice_charge_vs_spark_mandrill.gif)
+![Homing Torpedo](images/megamanx/homing_torpedo_1.png)
+![Homing Torpedo Charge](images/megamanx/homing_torpedo_charge_1.png)
+![Chameleon Sting](images/megamanx/chameleon_sting_1.png)
+![Chameleon Sting Charge](images/megamanx/chameleon_sting_charge_1.png)
+![Rolling Shield](images/megamanx/rolling_shield_2.png)
+![Rolling Shield Charge](images/megamanx/rolling_shield_charge_2.png)
+![Fire Wave](images/megamanx/fire_wave_1.png)
+![Fire Wave Charge](images/megamanx/fire_wave_charge_1.png)
+![Storm Tornado](images/megamanx/storm_tornado_1.png)
+![Storm Tornado Charge](images/megamanx/storm_tornado_charge_1.png)
+![Electric Spark](images/megamanx/electric_spark_1.png)
+![Electric Spark Charge 1](images/megamanx/electric_spark_charge_1.png)
+![Electric Spark Charge 2](images/megamanx/electric_spark_charge_2.png)
+![Boomerang Cutter](images/megamanx/boomerang_cutter_1.png)
+![Boomerang Cutter Charge](images/megamanx/boomerang_cutter_charge_1.png)
+
 ![Hadouken](images/megamanx/mmx_hadouken.png)
 
 Mega Man X, the main character of the Mega Man X series, is currently built with Mega Man X8 as the temporary development base, so his abilities are a little stronger for now. Once the armor set is finished, some of his functions will be adjusted to be closer to Mega Man X1.
@@ -131,9 +149,26 @@ Here is the Armor list in plan:
 ![ZeroSaberSlashCombo2](images/zero/zero_zs3combo2.gif)
 ![zero_zs_u_d](images/zero/zero_zs_u_d.gif)
 ![zero_zs3comboSP](images/zero/zero_zs3comboSP.gif)
+![zero_zs_5_hit_combo](images/zero/Zero_5_hit_combo.gif)
 ![zero_zs_ryuenjin](images/zero/zero_zs_ryuenjin.gif)
 ![zero_zs_hyoretsuzan](images/zero/zero_zs_hyoretsuzan.gif)
-![zero_zs_5_hit_combo](images/zero/Zero_5_hit_combo.gif)
+![zero_zs_raikousen](images/zero/raikousen_1.png)
+![zero_zs_enbuzan](images/zero/enbuzan.png)
+![lethal_slasher](images/zero/lethal_slasher_1.png)
+![Reppumai](images/zero/Reppumai_1.png)
+
+![pulse_shain](images/zero/pulse_chain_1.png)
+
+![Shuneimai](images/zero/Shuneimai_1.png)
+![Shuneisyu](images/zero/Shuneishu_1.png)
+![Shuneisyu](images/zero/Shuneishu_2.png)
+![Roueisyu](images/zero/Roueisyu_1.png)
+![Roueimai](images/zero/Roueimai_1.png)
+![Roueimai](images/zero/Roueimai_2.png)
+![Roueimai](images/zero/Roueimai_3.png)
+
+![lethal_slasher](images/zero/lethal_slasher_1.png)
+
 
 Zero is different from X. His design is primarily based on Mega Man X4, and in addition to the Zero Saber he is planned to have two normal weapons as well, both of which are still in development.
 
@@ -162,16 +197,17 @@ Their effects are similar: weaker impact during execution, but faster attack tim
 
 #### Special moves (Japanese name will show kanji):
 
+- Flame Mammoth => Ryuuenjin(龍炎刃) [Z. Saber]: A fire-element rising slash with multiple hits.
 - Chill Penguin => Hyouretsuzan(冰烈斬) [Z. Saber]: An ice-element descending slash that hits once but dealing with high damage.
 - Spark Mandrill => Raikousen(雷光閃) [Z. Saber]: A lightning-element invincible horizontal dash slash that also supports air dashing. Zero is invincible during the move and briefly afterward.
 - Armored Armadillo => Ennbuzan(圓舞斬) [Z. Saber]: A fast 360-degree spinning slash with projectile-clearing effect.
 - Launcher Octupus => Reppumai(烈風舞) [L. Slasher]: Fires four homing blade waves simultaneously, one in each direction (up, down, left, and right), each delivering multiple consecutive slashes.
+- Storm Eagle => Reppujin(烈風刃) [L. Slasher]: A burst of four-times-speed rapid slashes. One input = four normal attacks as storm type attack.
 - Launcher Octupus => Shuneimai(瞬影舞) [P. Chain]: Activated by charging P. Chain. Creates a life-draining vortex centered around Zero, similar to Launcher Octopus's attack. Enemies caught inside take continuous damage, and hitting an enemy a sufficient number of times restores a small amount of Zero's HP.
-- Boomer Kuwanger => Shuneishin(瞬影震) [P. Chain]: After hitting a normal P. Chain attack on an enemy, press the special attack button to instantly dash to the target and deliver a high-damage slash. Zero is invincible during the move and for a short period afterward.
+- Boomer Kuwanger => Shuneishu(瞬影襲) [P. Chain]: After hitting a normal P. Chain attack on an enemy, press the special attack button to instantly dash to the target and deliver a high-damage slash. Zero is invincible during the move and for a short period afterward.
 - Sting Chameleon => Roueisyu(朧影襲) [P. Chain]: While equipped with P. Chain, press the special attack button to rapidly launch explosive kunai. The explosions also inflict additional impact damage. 
 - Sting Chameleon => Roueimai(朧影舞) [P. Chain]: Activated by pressing the special attack button, Zero throws a smoke bomb at his current position, creating a stunning effect. Zero is invincible during the move and briefly afterward.
-- Storm Eagle => Reppujin(烈風刃) [L. Slasher]: A burst of four-times-speed rapid slashes. One input = four normal attacks.
-- Flame Mammoth => Ryuuenjin(龍炎刃) [Z. Saber]: A fire-element rising slash with multiple hits.
+
 
 
 #### Controls:
@@ -207,6 +243,10 @@ Their effects are similar: weaker impact during execution, but faster attack tim
 ![Jet Megaman](images/megaman/jet_mm.png)
 ![Power Megaman](images/megaman/power_mm.png)
 ![Blizzard attack](images/megaman/bliaazrd_attack_charge_hd.gif)
+![Flame Blast](images/megaman/flame_blast_1.png)
+![Flame Blast Charge](images/megaman/flame_blast_charge_1.png)
+![Super Cutter](images/megaman/super_cutter_1.png)
+![Air shooter](images/megaman/air_shooter_1.png)
 
 Mega Man, the main character from the original series, faces enemies that are more than ten decades ahead in technology in Mega Man X. That means he has a much harder time against them than before, but his built-in Jet and Power Adapters also give him more options in battle than ever. It all comes down to how the player uses each form's tactics.
 Due to lower attack and defense compared to X, this cause a much higher difficulty mainly suited for experienced players.
